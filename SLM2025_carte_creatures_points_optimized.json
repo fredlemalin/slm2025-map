@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "001",
+    "title": "Le Loup-garou",
+    "desc": "Au cœur du folklore québécois, le loup-garou symbolise la lutte entre foi et tentation. Mi-homme, mi-bête, il erre dans la nuit, puni pour avoir mené une vie profane ou manqué la messe sept années durant. Cette créature terrifiait jadis les campagnes du Québec, où l’on croyait qu’un simple coup au front pouvait briser la malédiction et ramener l’âme égarée vers la lumière.",
+    "img": "",
+    "lat": 46.5,
+    "lng": -72
+  },
+  {
+    "id": "002",
+    "title": "La Chasse-galerie",
+    "desc": "Mythe emblématique du Québec, la Chasse-Galerie raconte l’histoire de bûcherons qui, par désir d’amour et de liberté, concluent un pacte avec le Diable pour faire voler leur canot au-dessus des forêts enneigées. Interdits de blasphémer ou de frôler un clocher, ils risquent leur âme à chaque vol. Au début du XXᵉ siècle, cette légende prit des allures de faits réels dans les journaux, brouillant les frontières entre foi, superstition et mémoire collective.",
+    "img": "",
+    "lat": 46.613,
+    "lng": -72
+  },
+  {
+    "id": "003",
+    "title": "Le Memphré",
+    "desc": "Bien avant les colons, les légendes autochtones évoquaient déjà la présence d’un serpent géant dans les eaux du lac Memphrémagog. Observé depuis des siècles, ce monstre marin, loin d’être menaçant, est souvent décrit comme protecteur. En 1986, « Memphré » fut officiellement reconnu par Magog et Newport, devenant un symbole local célébré par des sculptures, des festivals et des témoignages toujours vivants. Entre mythe et fierté régionale, Memphré continue d’habiter l’imaginaire québécois.",
+    "img": "",
+    "lat": 45.07,
+    "lng": -72.33
+  },
+  {
+    "id": "004",
+    "title": "Le Cheval diabolique",
+    "desc": "Au Québec, certaines églises auraient été bâties grâce à un mystérieux cheval noir, don du Diable déguisé en bienfaiteur. À L’Islet, le curé Panet accepte son aide, mais l’animal s’enfuit lorsque sa bride est retirée, laissant derrière lui un trou maudit dans la roche. Depuis, ce cheval diabolique hante la mémoire populaire et rappelle qu’entre foi et tentation, même les pierres sacrées peuvent porter la marque du Malin.",
+    "img": "",
+    "lat": 47.1,
+    "lng": -70.35
+  },
+  {
+    "id": "005",
+    "title": "Les sirènes du golfe Saint-Laurent",
+    "desc": "Prises entre Anticosti et les Îles de la Madeleine, les sirènes du Saint-Laurent charment les marins de leur chant avant de les entraîner vers les profondeurs. Ces créatures, perdues en route vers la mer Rouge, seraient parfois aperçues sur les rochers ou prises dans les filets. Si certains y voient des phoques ou des morses, d’autres jurent encore les avoir entendues chanter. Entre mythe, illusion et mystère marin, leurs voix continuent de hanter nos rivages.",
+    "img": "",
+    "lat": 49,
+    "lng": -61.8
+  },
+  {
+    "id": "1763561140608",
+    "title": "Monstre",
+    "desc": "Je suis un méchant monstre.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763561140608.jpg",
+    "lat": 47.85371697106819,
+    "lng": -69.45007324218751
+  },
+  {
+    "id": "1763562604810",
+    "title": "Ankupu",
+    "desc": "il est aussi aspirateur à âmes corrompues. Ses jambes semblables à des pattes de poulet ne lui permet pas de faire de grandes distances. Il rode dans les forêts aux alentours de Matane, terrifiant quiconque se moquera du bleu de ses lèvres. Cadeau de la déesse du fleuve Saint-Laurent.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763562604810.jpg",
+    "lat": 48.850258,
+    "lng": -67.515106
+  },
+  {
+    "id": "1763563569706",
+    "title": "Buggy Doggy",
+    "desc": "Il est gentil et mange des hotdogs",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763563569706.jpg",
+    "lat": 45.452424,
+    "lng": -73.475189
+  },
+  {
+    "id": "1763564651929",
+    "title": "la baddie",
+    "desc": "aime danser et manger des poissons",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763564651929.jpg",
+    "lat": 45.509054,
+    "lng": -73.550248
+  },
+  {
+    "id": "1763566189527",
+    "title": "Maxime",
+    "desc": "Mort enterré sous une pile de livres, il revient hanter l'île de temps èa autre, courant après ses habitantsavec des signets hyper coupants.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763566189527.jpg",
+    "lat": 49.260635,
+    "lng": -62.435303
+  },
+  {
+    "id": "1763566886091",
+    "title": "Théophile",
+    "desc": "Il avaitt donné son âme au diable, mais il a changé d'idée et le diable l'a puni et l'a transformé en créature immortelle. Il erre dans la ville et la fôret.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763566886091.jpg",
+    "lat": 46.29001987172955,
+    "lng": -74.18792724609376
+  },
+  {
+    "id": "1763568430849",
+    "title": "Felix",
+    "desc": "Il peut nager.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763568430849.jpg",
+    "lat": 48.381794,
+    "lng": -71.177673
+  },
+  {
+    "id": "1763571048879",
+    "title": "Moka",
+    "desc": "Il lance du feu.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763571048879.jpg",
+    "lat": 45.536175,
+    "lng": -73.326874
+  },
+  {
+    "id": "1763571346599",
+    "title": "Mimi",
+    "desc": "Vole et lire dans les pensés",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763571346599.jpg",
+    "lat": 45.500572,
+    "lng": -73.593292
+  },
+  {
+    "id": "1763571557768",
+    "title": "Phoenix",
+    "desc": "Lance du feu sur les gens qui le menace",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763571557768.jpg",
+    "lat": 45.50358,
+    "lng": -73.566599
+  },
+  {
+    "id": "1763572123910",
+    "title": "Fila",
+    "desc": "Lance du feu avc ses cheveux et Capable brûler le corps, les animaux, tout.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763572123910.jpg",
+    "lat": 45.449474,
+    "lng": -73.276877
+  },
+  {
+    "id": "1763572901365",
+    "title": "Bob",
+    "desc": "Danse dans la ville et mange",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763572901365.jpg",
+    "lat": 46.337447,
+    "lng": -72.597656
+  },
+  {
+    "id": "1763573949508",
+    "title": "Fabrice",
+    "desc": "Invisible lorsqu'il a peur. Fait des chants de gorges pour attirer les sirènes et leur raconte des histoires.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763573949508.jpg",
+    "lat": 50.283416,
+    "lng": -64.014244
+  },
+  {
+    "id": "1763574829279",
+    "title": "Sasuke",
+    "desc": "Il mange des humains",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763574829279.jpg",
+    "lat": 45.46157547003231,
+    "lng": -73.73680114746095
+  },
+  {
+    "id": "1763575246955",
+    "title": "bagoda aguacate",
+    "desc": "il aime détruire et manger les gens dans l'hôpital",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763575246955.jpg",
+    "lat": 45.453869,
+    "lng": -73.647709
+  },
+  {
+    "id": "1763575779731",
+    "title": "Sirena",
+    "desc": "Changer l'eau en arc en ciel",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763575779731.jpg",
+    "lat": 47.41391731136826,
+    "lng": -70.40588378906251
+  },
+  {
+    "id": "1763576670286",
+    "title": "the dacker side",
+    "desc": "eats your tos",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763576670286.jpg",
+    "lat": 46.772048,
+    "lng": -71.264169
+  },
+  {
+    "id": "1763577866290",
+    "title": "Biboche",
+    "desc": "Biboche mange les autres monstres",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763577866290.jpg",
+    "lat": 45.56166,
+    "lng": -73.905716
+  },
+  {
+    "id": "1763578486189",
+    "title": "chevale de feu",
+    "desc": "il mange des humains",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763578486189.jpg",
+    "lat": 45.386877,
+    "lng": -71.867065
+  },
+  {
+    "id": "1763578740308",
+    "title": "iris",
+    "desc": "Elle aime bien voyager au Québec ou au Japon pour se divertir...",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763578740308.jpg",
+    "lat": 45.762733,
+    "lng": -73.828812
+  },
+  {
+    "id": "1763578994556",
+    "title": "kwidiche",
+    "desc": "il dort le jour mais, mange des hummaines la nuit. sont crie vous glace le sang...",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763578994556.jpg",
+    "lat": 45.663966,
+    "lng": -73.828125
+  },
+  {
+    "id": "1763579118040",
+    "title": "La créature...",
+    "desc": "Toute les informations écrite sur cet créature disparaissent",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763579118040.jpg",
+    "lat": 53.904338,
+    "lng": -76.816406
+  },
+  {
+    "id": "1763579250068",
+    "title": "tout doux",
+    "desc": "créature faite de douceur et d'amour",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763579250068.jpg",
+    "lat": 46.042736,
+    "lng": -73.125
+  },
+  {
+    "id": "1763582082409",
+    "title": "flident",
+    "desc": "cheval de feu qui dance avec le diable",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763582082409.jpg",
+    "lat": 48.3416461723746,
+    "lng": -76.24511718750001
+  },
+  {
+    "id": "1763587604198",
+    "title": "hydre",
+    "desc": "serpent de mer",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763587604198.jpg",
+    "lat": 46.056660007959536,
+    "lng": -73.8909959793091
+  },
+  {
+    "id": "1763589262112",
+    "title": "BANQ",
+    "desc": "",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763589262112.jpg",
+    "lat": 45.805829,
+    "lng": -72.993164
+  },
+  {
+    "id": "1763590839751",
+    "title": "Bobby",
+    "desc": "Mange les enfants",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763590839751.jpg",
+    "lat": 45.286481972782816,
+    "lng": -71.98242187500001
+  },
+  {
+    "id": "1763591020797",
+    "title": "Bob",
+    "desc": "Court vite",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763591020797.jpg",
+    "lat": 45.24624981124595,
+    "lng": -74.15067672729494
+  },
+  {
+    "id": "1763599188866",
+    "title": "Chacha",
+    "desc": "Chasseur danseur",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763599188866.jpg",
+    "lat": 45.5277572043752,
+    "lng": -73.56822967529298
+  },
+  {
+    "id": "1763648844246",
+    "title": "La bestifolle",
+    "desc": "C'était le gardien du phare, il a été happé par les vague lors d'une tempête. Une créature de la mer l'a adopté et lui a redonné la vie à la condition que durant la plus forte tempête à chaque année, il revienne la visiter sous sa forme de monstre marin. On peut l'apercevoir lors du mauvais temps, à la recherche de son amie créature de la mer.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763648844246.jpg",
+    "lat": 49.82380908513249,
+    "lng": -64.45678710937501
+  },
+  {
+    "id": "1763649760075",
+    "title": "charlemagne",
+    "desc": "il fait peur au enfant il se trouve au ,millieu de la foret parce que il vole il est remonter une riviere puis il c\"est pérdu.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763649760075.jpg",
+    "lat": 60.73768583450925,
+    "lng": -75.84960937500001
+  },
+  {
+    "id": "1763650280929",
+    "title": "la petite sirene",
+    "desc": "la petite sirene est cannibale",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763650280929.jpg",
+    "lat": 48.545705491847464,
+    "lng": -68.59863281250001
+  },
+  {
+    "id": "1763651655562",
+    "title": "SCP 222",
+    "desc": "Ce monstre kidnappe et mange les enfants sages",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763651655562.jpg",
+    "lat": 45.45916739594383,
+    "lng": -73.57252120971681
+  },
+  {
+    "id": "1763652704203",
+    "title": "Loup feu des ténèbres",
+    "desc": "Il peut manger vos réserves de nourriture et vos bras.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763652704203.jpg",
+    "lat": 45.445319,
+    "lng": -73.055735
+  },
+  {
+    "id": "1763653104310",
+    "title": "Cerf fantôme disparu",
+    "desc": "Si il te voit, sa bouche va s'agrandir et te dévore en une seule bouchée. Si tu le vois ou entend un bruit, FUIT! (et appelle la police)",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763653104310.jpg",
+    "lat": 45.44664375276735,
+    "lng": -73.07762145996095
+  },
+  {
+    "id": "1763653667119",
+    "title": "Le monstre de la forêt",
+    "desc": "Il aime jouer à cache-cache donc si il vous demande de jouer cachez-vous bien sinon il vous attrape",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763653667119.jpg",
+    "lat": 45.590978249451936,
+    "lng": -72.47680664062501
+  },
+  {
+    "id": "1763654081772",
+    "title": "Détuadeur",
+    "desc": "Il mange des enfants sages. Il mange des bras.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763654081772.jpg",
+    "lat": 48.275882,
+    "lng": -75.904541
+  },
+  {
+    "id": "1763654610284",
+    "title": "Minou tigoudu",
+    "desc": "Si tu dis Tigoudu il vient te manger!",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763654610284.jpg",
+    "lat": 46.46718711888634,
+    "lng": -72.69927978515626
+  },
+  {
+    "id": "1763655323872",
+    "title": "Poulet-tasse",
+    "desc": "Il boit l'encre des livres après le Salon du livre. Il écrase les maisons avec ses pieds.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763655323872.jpg",
+    "lat": 45.51536908938486,
+    "lng": -73.56223762035371
+  },
+  {
+    "id": "1763655700132",
+    "title": "La bibliothécaire qui sait tout",
+    "desc": "Elle sait que vous avez des livres en retard. Elle sait que vous n'avez jamais remit vos Tintin empruntés il y a 15 ans et elle vous hantera jusqu'à ce que ces documents soient retournés!",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763655700132.jpg",
+    "lat": 45.508271755944975,
+    "lng": -73.55346679687501
+  },
+  {
+    "id": "1763656270085",
+    "title": "Victo",
+    "desc": "Elle aime nager. Elle aime lire des livres. Elle aime cuisiner. Elle a plusieurs bras pour chatouiller les gens dans le métro.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763656270085.jpg",
+    "lat": 45.524582,
+    "lng": -73.5817
+  },
+  {
+    "id": "1763656890617",
+    "title": "Mimimathikiki",
+    "desc": "destructeur du parc nature\nil rode la nuit dans les rues et les maison de montreal",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763656890617.jpg",
+    "lat": 45.53894400382322,
+    "lng": -73.54255557060243
+  },
+  {
+    "id": "1763657777523",
+    "title": "MaMi",
+    "desc": "C'Est un monstre vieux et gentil. Il est très créatif pour cracher du feu",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763657777523.jpg",
+    "lat": 45.53593051331955,
+    "lng": -73.59662890434267
+  },
+  {
+    "id": "1763658223167",
+    "title": "Loup-Garoup",
+    "desc": "Il fait peur à du monde sur le Mont-Royal. Il se change la nuit en loup.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763658223167.jpg",
+    "lat": 45.505031,
+    "lng": -73.591592
+  },
+  {
+    "id": "1763658686631",
+    "title": "Shlaakyboouu",
+    "desc": "Il est rejeté par tout le monde et il est nulle. Il fait du ski, mais les skis ne sont pas adaptés pour lui.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763658686631.jpg",
+    "lat": 45.877446,
+    "lng": -74.145226
+  },
+  {
+    "id": "1763659054497",
+    "title": "buuuugggeee",
+    "desc": "il mange les orteils des enfants la nuit si ils dorment pas",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763659054497.jpg",
+    "lat": 45.53587414973921,
+    "lng": -73.59648942947389
+  },
+  {
+    "id": "1763659326057",
+    "title": "Tito",
+    "desc": "Il aime les enfants, mais les mangent. Il est drôle donc les enfants vont vers lui. Son vrai nom est Toti, mais on l'appelle Tito.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763659326057.jpg",
+    "lat": 45.572435,
+    "lng": -73.784561
+  },
+  {
+    "id": "1763659672155",
+    "title": "la grosse moche de chez moche",
+    "desc": "MOCHE ET CHELOUUUUUUUUUUUUUUUUUUUU",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763659672155.jpg",
+    "lat": 45.535006,
+    "lng": -73.596087
+  },
+  {
+    "id": "1763660895728",
+    "title": "Le pêcheur de feu",
+    "desc": "Il est gentil, il mange des algues. On le voit seulement le matin. Il vit là depuis mille ans.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763660895728.jpg",
+    "lat": 45.49866186366674,
+    "lng": -73.59764814376832
+  },
+  {
+    "id": "1763661323653",
+    "title": "Cheveu Boubba",
+    "desc": "Il a été abandonné dans son village et maintenant il veut tout détruire pour se venger.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763661323653.jpg",
+    "lat": 45.688674404285145,
+    "lng": -73.50162506103517
+  },
+  {
+    "id": "1763662076661",
+    "title": "LE TERMINATEUR",
+    "desc": "I est très méchant et il aime manger les gens. il kidnappe les enfants qui vont à l'école le matin, puis il les amène dans un endroit TOP SECRET pour les dévorer",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763662076661.jpg",
+    "lat": 45.475089,
+    "lng": -73.616638
+  },
+  {
+    "id": "1763662258048",
+    "title": "mega knight",
+    "desc": "il aime nager dans le fleuve et il a 1 ans",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763662258048.jpg",
+    "lat": 46.191002,
+    "lng": -72.828541
+  },
+  {
+    "id": "1763662422542",
+    "title": "Babouche",
+    "desc": "Babouche est une sirene qui aime les patates frites",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763662422542.jpg",
+    "lat": 45.512061,
+    "lng": -73.637838
+  },
+  {
+    "id": "1763662753984",
+    "title": "oupi-goupi",
+    "desc": "le celebre monstre de l'ècole secondaire paule arsenaud",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763662753984.jpg",
+    "lat": 45.81937133989838,
+    "lng": -73.43141555786134
+  },
+  {
+    "id": "1763663478494",
+    "title": "Pad'tête",
+    "desc": "Elle jette sa tête dans la fenêtre des gens pour essayer de se faire remarquer.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763663478494.jpg",
+    "lat": 47.602459,
+    "lng": -73.948975
+  },
+  {
+    "id": "1763663653819",
+    "title": "Artadanne",
+    "desc": "Elle va dans les cimetières enneigés pour manger les corps.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763663653819.jpg",
+    "lat": 59.73979,
+    "lng": -75.27832
+  },
+  {
+    "id": "1763665754481",
+    "title": "Loup-garouge",
+    "desc": "Ne vous en approchez pas !",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763665754481.jpg",
+    "lat": 46.7248,
+    "lng": -74.070854
+  },
+  {
+    "id": "1763666005281",
+    "title": "Le samonstre",
+    "desc": "Ce monstre utilise sa magie pour créer des illusions pour manger les gens dans le parc Bernard Landry.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763666005281.jpg",
+    "lat": 45.556762,
+    "lng": -73.700677
+  },
+  {
+    "id": "1763666290466",
+    "title": "La stiature",
+    "desc": "Fait peur aux gens, les dévore",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763666290466.jpg",
+    "lat": 45.556729,
+    "lng": -73.700613
+  },
+  {
+    "id": "1763666842402",
+    "title": "Freaky Boy",
+    "desc": "Méchant, laite, pas fin, aime bien manger des enfants",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763666842402.jpg",
+    "lat": 45.587881,
+    "lng": -73.512021
+  },
+  {
+    "id": "1763671829808",
+    "title": "Serpentine des glaces",
+    "desc": "voir titre",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763671829808.jpg",
+    "lat": 45.59695412430926,
+    "lng": -75.52332401275636
+  },
+  {
+    "id": "1763676030126",
+    "title": "La grande bouche",
+    "desc": "elle nage bien, et aime manger des enfants",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763676030126.jpg",
+    "lat": 46.669229,
+    "lng": -75.029755
+  },
+  {
+    "id": "1763676979987",
+    "title": "Rouge et Or",
+    "desc": "Monstrueux fan de football",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763676979987.jpg",
+    "lat": 47.45885311357839,
+    "lng": -70.36150932312013
+  },
+  {
+    "id": "1763678048747",
+    "title": "Mystique",
+    "desc": "Un peu méchante, elle voit tout avec ses trois yeux.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763678048747.jpg",
+    "lat": 45.432973,
+    "lng": -73.686848
+  },
+  {
+    "id": "1763681380910",
+    "title": "Cheval de feu",
+    "desc": "Il galope tellement vite qu'il laisse une traînée de feu!",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763681380910.jpg",
+    "lat": 48.732644,
+    "lng": -67.598877
+  },
+  {
+    "id": "1763683589504",
+    "title": "Balloune",
+    "desc": "Il lance du feu",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763683589504.jpg",
+    "lat": 45.67548217560647,
+    "lng": -73.90777587890626
+  },
+  {
+    "id": "1763687998765",
+    "title": "Super dubi",
+    "desc": "Super dubi rend tout le monde dubitatif et crée des halos confondants",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763687998765.jpg",
+    "lat": 45.267155,
+    "lng": -72.957458
+  },
+  {
+    "id": "1763688395673",
+    "title": "LEO CORNU",
+    "desc": "elle peut voir dans le noir",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763688395673.jpg",
+    "lat": 46.70950052897342,
+    "lng": -71.06369018554689
+  },
+  {
+    "id": "1763689569351",
+    "title": "Octodiva",
+    "desc": "Un monstre gentil avec une pointe d'insolence.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763689569351.jpg",
+    "lat": 48.443778,
+    "lng": -68.455811
+  },
+  {
+    "id": "1763689978384",
+    "title": "Horne Beast",
+    "desc": "Né de l'activité minière, il attaque les grandes corporations.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763689978384.jpg",
+    "lat": 48.278395,
+    "lng": -79.004574
+  },
+  {
+    "id": "1763734573175",
+    "title": "Glouton",
+    "desc": "Elle nage vite.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763734573175.jpg",
+    "lat": 48.539341,
+    "lng": -74.903412
+  },
+  {
+    "id": "1763734768764",
+    "title": "Nino",
+    "desc": "Cour vite quand il te voit",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763734768764.jpg",
+    "lat": 62.461567,
+    "lng": -77.409668
+  },
+  {
+    "id": "1763734927481",
+    "title": "aki",
+    "desc": "mange des maisons",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763734927481.jpg",
+    "lat": 48.809577,
+    "lng": -64.291992
+  },
+  {
+    "id": "1763735066078",
+    "title": "choubaka",
+    "desc": "crache du feu",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763735066078.jpg",
+    "lat": 60.35413,
+    "lng": -68.087769
+  },
+  {
+    "id": "1763735426000",
+    "title": "influanza",
+    "desc": "influenceuse sur tiktok",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763735426000.jpg",
+    "lat": 45.68111923574086,
+    "lng": -73.85026931762697
+  },
+  {
+    "id": "1763736163158",
+    "title": "Françoise",
+    "desc": "Elle fait peur aux plongeurs.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763736163158.jpg",
+    "lat": 45.160253,
+    "lng": -74.379501
+  },
+  {
+    "id": "1763736793770",
+    "title": "le baca",
+    "desc": "Il mange des bâtons de hockey. Il conduit un avion.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763736793770.jpg",
+    "lat": 45.540308,
+    "lng": -73.60136
+  },
+  {
+    "id": "1763736907461",
+    "title": "Le Bâtard",
+    "desc": "Il mange les petits humains.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763736907461.jpg",
+    "lat": 45.540206,
+    "lng": -73.60106
+  },
+  {
+    "id": "1763737891557",
+    "title": "Ponikc",
+    "desc": "Il aime manger les personnes qui entrent dans le fleuve Saint-Laurent et renverse les bateaux. Il n'aime pas le griffon.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763737891557.jpg",
+    "lat": 45.49624,
+    "lng": -73.532524
+  },
+  {
+    "id": "1763738239942",
+    "title": "Jean-Richard",
+    "desc": "La nuit quand les personnes vont sur l'île aux chats il les capture et les mets en feu.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763738239942.jpg",
+    "lat": 45.515925,
+    "lng": -73.754697
+  },
+  {
+    "id": "1763739695482",
+    "title": "Bauxite",
+    "desc": "Pour certains, c'est un monstre, puisqu'il mange toutes personnes marchant lentement. Pour d'autres, il est un héros qui protège des grandes furies par rapport au trafic sur les trottoirs et dans les corridors d'école surpeuplé.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763739695482.jpg",
+    "lat": 52.482780222078226,
+    "lng": -76.11328125000001
+  },
+  {
+    "id": "1763740012082",
+    "title": "Chateux",
+    "desc": "Il mange les écureuils.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763740012082.jpg",
+    "lat": 45.500181,
+    "lng": -73.566856
+  },
+  {
+    "id": "1763740287466",
+    "title": "dripolus",
+    "desc": "il n'est pas gentil et mange les humains qui font du ski. il meurt si tu le tues avec un couteau.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763740287466.jpg",
+    "lat": 45.879612178415165,
+    "lng": -74.13926124572755
+  },
+  {
+    "id": "1763740805890",
+    "title": "oui c est moi",
+    "desc": "c est moi pas toi !!!!!!",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763740805890.jpg",
+    "lat": 46.03421921895509,
+    "lng": -74.24291789531709
+  },
+  {
+    "id": "1763741163021",
+    "title": "Pas de nom",
+    "desc": "Dangereux",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763741163021.jpg",
+    "lat": 67.709445,
+    "lng": -74.003906
+  },
+  {
+    "id": "1763741618443",
+    "title": "Grosse tête, petit coeur",
+    "desc": "Connu pour sa cruauté envers les enfants trop sages, il mange les orteils des personnes qui portent des sandales.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763741618443.jpg",
+    "lat": 46.837345,
+    "lng": -71.212311
+  },
+  {
+    "id": "1763742001390",
+    "title": "geo",
+    "desc": "Il est gentil il bouffe pas les gens.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763742001390.jpg",
+    "lat": 62.124436,
+    "lng": -76.772461
+  },
+  {
+    "id": "1763743151201",
+    "title": "LAG",
+    "desc": "Danse la macarena",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763743151201.jpg",
+    "lat": 45.576922,
+    "lng": -73.673973
+  },
+  {
+    "id": "1763743836005",
+    "title": "Je sais pas",
+    "desc": "Ne sait rien",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763743836005.jpg",
+    "lat": 47.008821,
+    "lng": -70.814438
+  },
+  {
+    "id": "1763745033665",
+    "title": "montravainiya",
+    "desc": "elle aime manger les poissons",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763745033665.jpg",
+    "lat": 54.069059,
+    "lng": -64.017334
+  },
+  {
+    "id": "1763745511232",
+    "title": "le Babadouck",
+    "desc": "Un monstre qui terrorise la ville de Québec en mangeant tous les petits enfants qu'il retrouve dans la ville. Il a une grande tête rouge avec une immense bouche qui démontre ses dents jaunes. Il a aussi deux yeux jaunes effrayants.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763745511232.jpg",
+    "lat": 49.109838,
+    "lng": -57.810059
+  },
+  {
+    "id": "1763746550647",
+    "title": "wijo",
+    "desc": "Il est très féroce et il peut casser n'importe quoi dans son territoire.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763746550647.jpg",
+    "lat": 45.51019654498558,
+    "lng": -73.63311767578126
+  },
+  {
+    "id": "1763747256838",
+    "title": "Six Seven",
+    "desc": "Il aime faire le 6-7 dans l'eau et en haut de l'eau il aime manger les baleines qu'il écrase et mange.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763747256838.jpg",
+    "lat": 48.04871,
+    "lng": -62.53418
+  },
+  {
+    "id": "1763747671881",
+    "title": "Le démon de feu",
+    "desc": "Crache du feu",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763747671881.jpg",
+    "lat": 48.06706753191901,
+    "lng": -77.78869628906251
+  },
+  {
+    "id": "1763748318268",
+    "title": "toutou haker",
+    "desc": "Il devient invisible et il a de la super force",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763748318268.jpg",
+    "lat": 45.592539846004904,
+    "lng": -73.63869667053224
+  },
+  {
+    "id": "1763748529178",
+    "title": "Bloublou",
+    "desc": "Géant et il crache du feu",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763748529178.jpg",
+    "lat": 46.96807089955558,
+    "lng": -70.90988159179689
+  },
+  {
+    "id": "1763748723417",
+    "title": "Le monstre des cavernes",
+    "desc": "Il mange les gens",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763748723417.jpg",
+    "lat": 45.46205707250824,
+    "lng": -73.75534057617189
+  },
+  {
+    "id": "1763749110172",
+    "title": "Canibalouzila",
+    "desc": "C'est un cannibal très féroce qui mange des centaines d'humains par jour",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763749110172.jpg",
+    "lat": 57.468589192089354,
+    "lng": -71.23535156250001
+  },
+  {
+    "id": "1763749523824",
+    "title": "Siréna",
+    "desc": "",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763749523824.jpg",
+    "lat": 55.92458580482951,
+    "lng": -64.11621093750001
+  },
+  {
+    "id": "1763751718361",
+    "title": "Dinosaur",
+    "desc": "Il mange de l'herbe et aime être carnivore.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763751718361.jpg",
+    "lat": 45.57896451566304,
+    "lng": -73.54591369628908
+  },
+  {
+    "id": "1763751718361",
+    "title": "Dinosaur",
+    "desc": "Il mange de l'herbe et aime être carnivore.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763751718361.jpg",
+    "lat": 45.57896451566304,
+    "lng": -73.54591369628908
+  },
+  {
+    "id": "1763751718361",
+    "title": "Dinosaur",
+    "desc": "Il mange de l'herbe et aime être carnivore.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763751718361.jpg",
+    "lat": 45.57896451566304,
+    "lng": -73.54591369628908
+  },
+  {
+    "id": "1763751718361",
+    "title": "Dinosaur",
+    "desc": "Il mange de l'herbe et aime être carnivore.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763751718361.jpg",
+    "lat": 45.57896451566304,
+    "lng": -73.54591369628908
+  },
+  {
+    "id": "1763751904312",
+    "title": "Sirène des ténèbres",
+    "desc": "Elle aime manger les enfants et les baleines",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763751904312.jpg",
+    "lat": 60.392147922518845,
+    "lng": -68.11523437500001
+  },
+  {
+    "id": "1763752121998",
+    "title": "Le diable",
+    "desc": "Il est méchant",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763752121998.jpg",
+    "lat": 56.26776108757582,
+    "lng": -70.83984375000001
+  },
+  {
+    "id": "1763752555723",
+    "title": "Mitch",
+    "desc": "Il habite dans la forêt et mange des crottes de licorne.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763752555723.jpg",
+    "lat": 52.214338608258224,
+    "lng": -70.75195312500001
+  },
+  {
+    "id": "1763752680511",
+    "title": "Persil",
+    "desc": "Il brûle des forêts et il chante.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763752680511.jpg",
+    "lat": 44.653024159812,
+    "lng": -76.20117187500001
+  },
+  {
+    "id": "1763752924918",
+    "title": "Mignon",
+    "desc": "Manger les gens",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763752924918.jpg",
+    "lat": 46.181732100439916,
+    "lng": -72.83660888671876
+  },
+  {
+    "id": "1763753290617",
+    "title": "Danger",
+    "desc": "Il mange les humains et court vite.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763753290617.jpg",
+    "lat": 48.4146186174932,
+    "lng": -71.03759765625001
+  },
+  {
+    "id": "1763753513407",
+    "title": "Crakou",
+    "desc": "Il détruit les toits.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763753513407.jpg",
+    "lat": 45.37385530918648,
+    "lng": -73.37356567382814
+  },
+  {
+    "id": "1763753799145",
+    "title": "Renaud",
+    "desc": "Il fait peur.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763753799145.jpg",
+    "lat": 45.36565470886627,
+    "lng": -73.34472656250001
+  },
+  {
+    "id": "1763758725540",
+    "title": "Rizou",
+    "desc": "Il creuse des maisons dans la neige.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763758725540.jpg",
+    "lat": 45.381090145612674,
+    "lng": -73.08929443359376
+  },
+  {
+    "id": "1763760760504",
+    "title": "Catoche",
+    "desc": "Très gentille",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763760760504.jpg",
+    "lat": 48.95858066440977,
+    "lng": -64.53369140625001
+  },
+  {
+    "id": "1763767461130",
+    "title": "mathou pathou",
+    "desc": "",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763767461130.jpg",
+    "lat": 46.025098,
+    "lng": -73.441544
+  },
+  {
+    "id": "1763770694075",
+    "title": "Le monstre du lac",
+    "desc": "",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763770694075.jpg",
+    "lat": 45.826885387845664,
+    "lng": -73.54522705078126
+  },
+  {
+    "id": "1763770950796",
+    "title": "monsta",
+    "desc": "",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763770950796.jpg",
+    "lat": 45.788355,
+    "lng": -73.642216
+  },
+  {
+    "id": "1763771299125",
+    "title": "Chicken Banana",
+    "desc": "",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763771299125.jpg",
+    "lat": 45.406164,
+    "lng": -75.71228
+  },
+  {
+    "id": "1763771915824",
+    "title": "flame rouge",
+    "desc": "",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763771915824.jpg",
+    "lat": 47.835283,
+    "lng": -73.531494
+  },
+  {
+    "id": "1763820683901",
+    "title": "Chepois",
+    "desc": "Capable de bâtir des masions très rapidement pour régler le problème de la crise du logement.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763820683901.jpg",
+    "lat": 47.820532,
+    "lng": -72.888794
+  },
+  {
+    "id": "1763821791382",
+    "title": "Loup Garou de Gaspé",
+    "desc": "aide à protéger l'environnement",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763821791382.jpg",
+    "lat": 48.824045,
+    "lng": -64.448547
+  },
+  {
+    "id": "1763822569102",
+    "title": "Carolane",
+    "desc": "Très bonne nageuse. Elle fait peur dans les rêves",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763822569102.jpg",
+    "lat": 48.83579746243093,
+    "lng": -70.35644531250001
+  },
+  {
+    "id": "1763824204159",
+    "title": "Monstre de la Manic",
+    "desc": "Boit le surplus d'eau du barrage et le recrache sur les passants.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763824204159.jpg",
+    "lat": 50.647665,
+    "lng": -68.726263
+  },
+  {
+    "id": "1763824457377",
+    "title": "Feu sirène",
+    "desc": "Elle éteint les feux",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763824457377.jpg",
+    "lat": 48.143411,
+    "lng": -69.715805
+  },
+  {
+    "id": "1763824809093",
+    "title": "Féreau",
+    "desc": "Il doit toujours être à moitié dans l'eau car il doit rester en feu. Il aide à allumer des feux pour cuire le poisson de pêcheurs.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763824809093.jpg",
+    "lat": 62.44819,
+    "lng": -73.783665
+  },
+  {
+    "id": "1763825607771",
+    "title": "Anna",
+    "desc": "Elle respire sous l'eau. Elle sauve les enfants qui vont se noyer.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763825607771.jpg",
+    "lat": 45.521563,
+    "lng": -73.92756
+  },
+  {
+    "id": "1763826074727",
+    "title": "Le chien d'eau",
+    "desc": "Elle nage et attaque les poissons et les humains.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763826074727.jpg",
+    "lat": 46.538909,
+    "lng": -75.405221
+  },
+  {
+    "id": "1763826852093",
+    "title": "Dodo",
+    "desc": "Il peut déplacer des choses. Il fait peur au méchants du bois de l'Équerre",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763826852093.jpg",
+    "lat": 45.607313,
+    "lng": -73.75843
+  },
+  {
+    "id": "1763826946424",
+    "title": "Mazdroud",
+    "desc": "Il va dans les nuits griffer les maisons",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763826946424.jpg",
+    "lat": 45.85726,
+    "lng": -74.073257
+  },
+  {
+    "id": "1763827062421",
+    "title": "Minou",
+    "desc": "Il fait du feu.Il est gentil",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763827062421.jpg",
+    "lat": 46.113646,
+    "lng": -74.591761
+  },
+  {
+    "id": "1763827227066",
+    "title": "Chico",
+    "desc": "Elle vole au-dessus des lacs.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763827227066.jpg",
+    "lat": 45.553938,
+    "lng": -73.706878
+  },
+  {
+    "id": "1763827448471",
+    "title": "Réveillé",
+    "desc": "Il réveille tout le monde avec un son grave très fort pour ne pas être en retard à l'école. Elle peut être fatiguée à l'école, alors elle s'endort",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763827448471.jpg",
+    "lat": 45.605932,
+    "lng": -73.660798
+  },
+  {
+    "id": "1763829881217",
+    "title": "La méduse",
+    "desc": "La beauté de sa voix peut vous transformer pour toujours",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763829881217.jpg",
+    "lat": 45.309183,
+    "lng": -73.749847
+  },
+  {
+    "id": "1763830180345",
+    "title": "Le monstre du lac de la cité",
+    "desc": "Contrôle l'eau. Il fait peur aux visiteurs qui jettent des déchets dans l'eau.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763830180345.jpg",
+    "lat": 45.486583,
+    "lng": -73.409057
+  },
+  {
+    "id": "1763830590837",
+    "title": "Club med",
+    "desc": "Il détruit la forêt et affaibli la montagne.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763830590837.jpg",
+    "lat": 47.347634,
+    "lng": -70.533772
+  },
+  {
+    "id": "1763830912128",
+    "title": "Mogrot",
+    "desc": "Il tue les gens avec ses griffes et il mange avec sa bouche sur son front. Il veut protéger les animaux et tue les braconniers et les chasseurs.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763830912128.jpg",
+    "lat": 46.381044,
+    "lng": -74.528503
+  },
+  {
+    "id": "1763831320477",
+    "title": "La sirène du Fjord",
+    "desc": "La seule survivante de son espèce. elle chante dans l'espoir de retrouver ses comparses.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763831320477.jpg",
+    "lat": 48.492037,
+    "lng": -71.405296
+  },
+  {
+    "id": "1763831645277",
+    "title": "Chinook",
+    "desc": "Il hante les forêts et rivières. Ne laissez pas les enfants sans surveillance.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763831645277.jpg",
+    "lat": 45.569652,
+    "lng": -75.774937
+  },
+  {
+    "id": "1763831864029",
+    "title": "Alfred",
+    "desc": "Son pouvoir est de dormir. Alfred est apparu dans le parc national de Mont-Tremblant. Elle marche 1 mètre par jour. Elle mange de la mousse.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763831864029.jpg",
+    "lat": 46.307098,
+    "lng": -74.583435
+  },
+  {
+    "id": "1763832200022",
+    "title": "Jean-Guy",
+    "desc": "Il fait pipi dans les pots de fleurs des gens qui ne priorisent pas les piétons",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763832200022.jpg",
+    "lat": 49.251336,
+    "lng": -65.502187
+  },
+  {
+    "id": "1763832567049",
+    "title": "Pulpeuse",
+    "desc": "Envoûte les touriste en canot et mange des roches",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763832567049.jpg",
+    "lat": 47.978776,
+    "lng": -66.953859
+  },
+  {
+    "id": "1763833163691",
+    "title": "Noyami",
+    "desc": "Gardien de l'hospitalité. Il n'existe que là ou l'accueil est sacré, dans les endroits lumineux.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763833163691.jpg",
+    "lat": 50.541363,
+    "lng": -74.663086
+  },
+  {
+    "id": "1763834181553",
+    "title": "Bob",
+    "desc": "Il chante tellement mal que les gens s'endorment.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763834181553.jpg",
+    "lat": 45.526555,
+    "lng": -75.563965
+  },
+  {
+    "id": "1763835945022",
+    "title": "yammiammiam",
+    "desc": "",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763835945022.jpg",
+    "lat": 45.279718,
+    "lng": -72.973938
+  },
+  {
+    "id": "1763836525728",
+    "title": "Gloupie",
+    "desc": "Elle voit dans toutes les temporalités et les réalités alternatives. Elle mange exclusivement des langoustes de taille normale. Ces actions sont purement neutre.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763836525728.jpg",
+    "lat": 48.145873,
+    "lng": -69.725504
+  },
+  {
+    "id": "1763837135026",
+    "title": "Le Brisebois",
+    "desc": "Il hante la mémoire de ceux qui l'ont vu.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763837135026.jpg",
+    "lat": 45.318961,
+    "lng": -72.417219
+  },
+  {
+    "id": "1763837839215",
+    "title": "Swompoute",
+    "desc": "Si vous êtes près des marécages, attention à ne pas laisser vos outils en métal dehors la nuit. Sinon, au matin, le swompoute les aura tous mangés. Se nourrissant de métal rouillé, le swompoute continue de se faire entendre dans les forêts de l'Abitibi-Témiscamingue. Sssswompouuuute!!!",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763837839215.jpg",
+    "lat": 47.401603,
+    "lng": -78.704939
+  },
+  {
+    "id": "1763838164880",
+    "title": "Meduza",
+    "desc": "Elle n'aime pas les garçons, elle va les noyer. Elle aime les fleurs. Elle va les cueillir dans le fond de la mer.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763838164880.jpg",
+    "lat": 45.763691,
+    "lng": -82.051392
+  },
+  {
+    "id": "1763838763219",
+    "title": "Diane",
+    "desc": "Elle peut enlever sa tête, se couper en trois, se téléporter. Elle veut empêcher les gens de traverser. Elle appelle ses amis en renfort pour les bloquer.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763838763219.jpg",
+    "lat": 50.19866,
+    "lng": -66.389694
+  },
+  {
+    "id": "1763840040441",
+    "title": "Crapule",
+    "desc": "Il nage et fait couler les navires des chasseurs de phoque.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763840040441.jpg",
+    "lat": 48.370734,
+    "lng": -68.744373
+  },
+  {
+    "id": "1763840426973",
+    "title": "Monstre Moisie",
+    "desc": "être aquatique qui protège l'écosystème de la rivière Moisie. Il change les contrevenants en tétards.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763840426973.jpg",
+    "lat": 50.206462,
+    "lng": -66.087227
+  },
+  {
+    "id": "1763841510293",
+    "title": "Barouda",
+    "desc": "une créature qui vis dans les eaux du lac Maskinongé. Elle sort la nuit pour observer les habitants et prendre des objets du quotidien pour sa collection.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763841510293.jpg",
+    "lat": 46.317058,
+    "lng": -73.386869
+  },
+  {
+    "id": "1763841889312",
+    "title": "paul",
+    "desc": "MANGE LES GROS POISSONS!",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763841889312.jpg",
+    "lat": 46.801705,
+    "lng": -71.21767
+  },
+  {
+    "id": "1763842009028",
+    "title": "Oumga",
+    "desc": "He don't like bad people and have some mental issue.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763842009028.jpg",
+    "lat": 45.449233,
+    "lng": -73.276749
+  },
+  {
+    "id": "1763842267148",
+    "title": "Chimère enfantine",
+    "desc": "Il vole les yeux des enfants et les mange. Ils poussent ensuite sur son ventre.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763842267148.jpg",
+    "lat": 45.693231,
+    "lng": -74.96315
+  },
+  {
+    "id": "1763842557772",
+    "title": "Kroumpoutpuff",
+    "desc": "Il donne des mauvais rêves et terrorise les gens. Il donne aussi une odeur de pète dans la bouche des gens.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763842557772.jpg",
+    "lat": 47.3183449418758,
+    "lng": -70.05981445312501
+  },
+  {
+    "id": "1763842950977",
+    "title": "Mamanayo",
+    "desc": "Elle chante très bien et ensorcelle tout le monde et les gens deviennent beaux",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763842950977.jpg",
+    "lat": 46.02337,
+    "lng": -74.197111
+  },
+  {
+    "id": "1763843337764",
+    "title": "La Chateaugoise",
+    "desc": "Elle mange les gens qui pollue la riviere",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763843337764.jpg",
+    "lat": 45.36974,
+    "lng": -73.753216
+  },
+  {
+    "id": "1763843529330",
+    "title": "Aurteaugraff",
+    "desc": "Mange les gens qui n'écrivent pas comme du monde.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763843529330.jpg",
+    "lat": 48.79239,
+    "lng": -67.510986
+  },
+  {
+    "id": "1763843773745",
+    "title": "Sirène d'Hudson",
+    "desc": "Elle mange les chasseurs de baleine.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763843773745.jpg",
+    "lat": 55.986092,
+    "lng": -79.211426
+  },
+  {
+    "id": "1763844212200",
+    "title": "Akounamatata",
+    "desc": "Il aide les pêcheurs en leur indiquant le lieu des bonnes prises.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763844212200.jpg",
+    "lat": 55.178868,
+    "lng": -70.488281
+  },
+  {
+    "id": "1763844390635",
+    "title": "Fufu",
+    "desc": "Est-il gentil? Est-il méchant? À vous de le découvrir...",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763844390635.jpg",
+    "lat": 47.526243,
+    "lng": -69.811592
+  },
+  {
+    "id": "1763844944084",
+    "title": "Samuel",
+    "desc": "Il court vite comme l'éclair. Il dévore les citoyens.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763844944084.jpg",
+    "lat": 46.790702,
+    "lng": -71.256933
+  },
+  {
+    "id": "1763845337736",
+    "title": "Jeanne",
+    "desc": "Il mange des oiseaux et il crache du feu. Ses ennemis c'est les dragons. Il est ami avec les monstres.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763845337736.jpg",
+    "lat": 46.73233101286786,
+    "lng": -71.28479003906251
+  },
+  {
+    "id": "1763845553407",
+    "title": "Cabécou",
+    "desc": "Il dévore tout.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763845553407.jpg",
+    "lat": 45.412852,
+    "lng": -72.150693
+  },
+  {
+    "id": "1763846540068",
+    "title": "Becky",
+    "desc": "Elle aime l'eau. SOn ami s'appelle Émeraude. Elle n'a pas d'ennemis. Elle attrappe des poissons pour les gens.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763846540068.jpg",
+    "lat": 46.82059,
+    "lng": -72.233648
+  },
+  {
+    "id": "1763847191799",
+    "title": "Coucou",
+    "desc": "Il fait du feu.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763847191799.jpg",
+    "lat": 47.669202,
+    "lng": -70.200062
+  },
+  {
+    "id": "1763847791882",
+    "title": "Jennifer",
+    "desc": "Elle mange les souris qui dérangent dans les maisons.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763847791882.jpg",
+    "lat": 45.545617,
+    "lng": -73.470978
+  },
+  {
+    "id": "1763848197095",
+    "title": "Super Déesse",
+    "desc": "Elle trouve des trésors qu'elle partage aux enfants.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763848197095.jpg",
+    "lat": 45.741622,
+    "lng": -73.437209
+  },
+  {
+    "id": "1763850782315",
+    "title": "Pisspet",
+    "desc": "Il aime les pets. Il fait beaucoup de bruit. Il est espion.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763850782315.jpg",
+    "lat": 49.887501,
+    "lng": -64.501462
+  },
+  {
+    "id": "1763851131087",
+    "title": "Monstrueux",
+    "desc": "Pour se défendre il crache du feu. Il galoppe.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763851131087.jpg",
+    "lat": 45.517354,
+    "lng": -73.596897
+  },
+  {
+    "id": "1763851579339",
+    "title": "Persee",
+    "desc": "Il veut apporter de la joie aux personnes résidentes de la Gaspésie.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763851579339.jpg",
+    "lat": 48.523824,
+    "lng": -64.199145
+  },
+  {
+    "id": "1763851738697",
+    "title": "Le diforme",
+    "desc": "Aime bien voler les produits de beauté pour s'arranger.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763851738697.jpg",
+    "lat": 46.814041,
+    "lng": -71.207886
+  },
+  {
+    "id": "1763851970967",
+    "title": "Le monstre du Mont-Royal",
+    "desc": "Il fait des farces. Il se cache dans les arbres et fait des bruits bizarres.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763851970967.jpg",
+    "lat": 45.508542,
+    "lng": -73.589516
+  },
+  {
+    "id": "1763853540375",
+    "title": "Patate",
+    "desc": "Il donne des mauvais rêves. Il transforme les gesn en monstre comme lui.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763853540375.jpg",
+    "lat": 45.401644,
+    "lng": -71.893501
+  },
+  {
+    "id": "1763856409468",
+    "title": "isabe",
+    "desc": "Il mange des maringouins et des mouches noires.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763856409468.jpg",
+    "lat": 50.205528,
+    "lng": -66.747769
+  },
+  {
+    "id": "1763856732328",
+    "title": "Louglou",
+    "desc": "Né de l'union entre ne louve et un monstre de lac, il fait peur aux pêcheurs qui vont trop loin dans le lac.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763856732328.jpg",
+    "lat": 46.390517,
+    "lng": -70.490341
+  },
+  {
+    "id": "1763858733354",
+    "title": "Expanr",
+    "desc": "Il se promène sur le sable. Il cherche une émeraude qui va le libérer d'une malédiction. Quand il y a des gens qui approchent il les ammène sous l'eau pour les manger.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763858733354.jpg",
+    "lat": 48.092155,
+    "lng": -65.65111
+  },
+  {
+    "id": "1763859327428",
+    "title": "Astaroth",
+    "desc": "Il se cache dans les forêts environnantes du sommet du Mont Mégantic. Il est agressif en chasse et en pêche. Habile, il retrouve son chemin en forêt.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763859327428.jpg",
+    "lat": 45.455694,
+    "lng": -71.14929
+  },
+  {
+    "id": "1763859761520",
+    "title": "?????????????",
+    "desc": "??????????????????????????\nNE LE CROISEZ JAMAIS!!!!!!!!!",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763859761520.jpg",
+    "lat": 51.08022,
+    "lng": -78.277588
+  },
+  {
+    "id": "1763860256760",
+    "title": "smdnoed aà",
+    "desc": "Il adore parler avec les framboises et déteste les fraises. Il écrit des romans sur les roches. Il chante seulement quand il est sous la douche. Il déteste les humains parce qu'il doit s'en servir comme brosse à dent pour absolument aucune raison. Aime les torturer en leur faisant trop de calins!!!!!!!!!!!!!!!!!!!!!!",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763860256760.jpg",
+    "lat": 44.715513732021336,
+    "lng": -57.74414062500001
+  },
+  {
+    "id": "1763861332232",
+    "title": "^^^^^^-àçèélè;^==ç^péàèçèè",
+    "desc": "?????????????????????????????????????????????????????????????????????????????????????????Tout ce que nous savons sur cette bête est qu'elle ressemble à ce que vous voyez en ce moment.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763861332232.jpg",
+    "lat": 48.676794,
+    "lng": -74.953194
+  },
+  {
+    "id": "1763912060351",
+    "title": "glagla",
+    "desc": "les épines de ce monstre sont en réalité les icebergs trouvables dans cette région maritime",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763912060351.jpg",
+    "lat": 48.75618876280552,
+    "lng": -52.11914062500001
+  },
+  {
+    "id": "1763912851178",
+    "title": "vrilloty",
+    "desc": "sorte de loup-garou métamorphe qui attaque les passants pour brûler leurs corps avant de les manger.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763912851178.jpg",
+    "lat": 46.664989,
+    "lng": -76.096115
+  },
+  {
+    "id": "1763920757175",
+    "title": "Le fantome aquatique",
+    "desc": "elle mange des canards",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763920757175.jpg",
+    "lat": 45.740693,
+    "lng": -73.596725
+  },
+  {
+    "id": "1763920906452",
+    "title": "Chépa",
+    "desc": "Il mange des nouilles",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763920906452.jpg",
+    "lat": 45.74545538722362,
+    "lng": -73.6036777496338
+  },
+  {
+    "id": "1763922217773",
+    "title": "bolmer",
+    "desc": "elle vole des enfants qui sont tanant et les amène dans sa maison sur pieds de coq pour les enchanter.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763922217773.jpg",
+    "lat": 47.660734,
+    "lng": -70.167403
+  },
+  {
+    "id": "1763922575463",
+    "title": "Diable d'océan",
+    "desc": "Aime manger des enfants et se cache dans l'eau donc les mamans ont peur de mettre leurs enfants dans l'eau.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763922575463.jpg",
+    "lat": 48.77429274267509,
+    "lng": -63.00659179687501
+  },
+  {
+    "id": "1763923270787",
+    "title": "loch ness monster",
+    "desc": "Elle est vraiment nerveuse mais elle aime manger des enfants et elle n'aime pas quand les gens fument.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763923270787.jpg",
+    "lat": 55.553495,
+    "lng": -50.844727
+  },
+  {
+    "id": "1763923626814",
+    "title": "bar",
+    "desc": "il mange des poissons",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763923626814.jpg",
+    "lat": 45.434358,
+    "lng": -73.678093
+  },
+  {
+    "id": "1763924317723",
+    "title": "Lourier",
+    "desc": "loup garou du compté de Westbury",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763924317723.jpg",
+    "lat": 45.489562,
+    "lng": -71.69991
+  },
+  {
+    "id": "1763924858315",
+    "title": "le chamalgame",
+    "desc": "il est absolument immateriel mais seulement si il le veut.",
+    "img": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/images/creature_1763924858315.jpg",
+    "lat": 46.458674,
+    "lng": -74.352722
+  }
+]
